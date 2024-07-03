@@ -1,6 +1,6 @@
 # :wave: Hello! I'm Simone
 
-I'm a Full Stack Engineer with a strong passion for front-end development. 
+I am a Project Director who has recently trained as a Full Stack Developer. 
 
 Previously, I led a department where I managed large-scale campaigns generating over a million in annual revenue and led a team of 12. This background in project management and creative problem-solving fueled my transition to tech.
 
