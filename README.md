@@ -2,7 +2,7 @@
 
 I am a Project Director who has recently trained as a Full Stack Developer. 
 
-Previously, I led a department where I managed large-scale campaigns generating over a million in annual revenue and led a team of 12. This background in project management and creative problem-solving fueled my transition to tech.
+Previously, I led a department where I managed large-scale campaigns generating over a million in annual revenue and led a team of 12. This background in project management and creative problem-solving fuelled my transition to tech.
 
 My journey into coding began out of a natural curiosity and a deep-seated interest in technology, prompting me to complete a Full Stack Engineering Bootcamp in early 2024. Beyond coding, I'm an avid learner, diving into podcasts, YouTube videos, and online courses on a variety of topics—from investing and emerging technologies to history and neuroplasticity. Most recently, I finished a course on AI through Codecademy and Udacity.
 
